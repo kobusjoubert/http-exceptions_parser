@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/http-exceptions_parser.svg)](https://rubygems.org/gems/http-exceptions_parser)
 
-Parser that parses the exception message returned from the exception message returned from the [Http::Exceptions](https://github.com/rainforestapp/http-exceptions).
+Parser that parses the exception message returned from the exception message returned from the [Http::Exceptions](https://github.com/rainforestapp/http-exceptions) gem.
 
 ## Installation
 
