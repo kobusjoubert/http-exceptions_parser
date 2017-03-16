@@ -1,5 +1,6 @@
 /.bundle/
 /.yardoc
+/.byebug_history
 /Gemfile.lock
 /_yardoc/
 /coverage/
@@ -7,3 +8,4 @@
 /pkg/
 /spec/reports/
 /tmp/
+/http-exceptions_parser-*.gem
