@@ -22,7 +22,7 @@ Or install it yourself as:
 
 Add the following to your ruby program:
 
-    require 'http-exceptions_parser'
+    require 'http/exceptions_parser'
 
 Now parse the message returned from HttpExceptions
 
